@@ -12,6 +12,8 @@
  */
 /* 2D TRANSITIONS */
 /* Grow */
+.kotak {margin:20px auto;text-align:center;}
+.btn{display:inline-block;position:relative;font-family:'Open Sans',Helvetica,sans-serif;text-decoration:none;font-weight:700;background:#ff675c;padding:9px 18px;margin:0 3px;border-radius:3px;opacity:1;border:0;text-transform:uppercase;transition:all .3s ease-out;}
 .hvr-grow {
   display: inline-block;
   vertical-align: middle;
